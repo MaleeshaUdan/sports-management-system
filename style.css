@@ -1,0 +1,41 @@
+hr{
+	border: 5px solid black;
+	height: 5px;
+	border-radius: 5px;
+}
+
+body {
+	background-color: #31aae2;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:link, a:visited {
+	color: black;
+}
+
+
+.footer {
+position: fixed;
+left: 0px;
+bottom: 0px;
+right: 0px; 
+width: 100%;
+background-color: #ffffff;
+color: black;
+text-align: center;
+font-weight: bold;
+font-style: italic;
+opacity: 40%;
+}
+
+ul li{
+	font-family: sans-serif;
+	font-weight: bolder;
+	font-style: italic;
+	font-size: 25px;
+}
